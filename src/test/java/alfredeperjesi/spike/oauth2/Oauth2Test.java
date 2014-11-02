@@ -12,9 +12,9 @@ import static org.hamcrest.MatcherAssert.assertThat;
 
 public class Oauth2Test {
 
-    private static final String USER_NAME = "rustem.suniev@telegraph.co.uk.nitrodev";
-    private static final String PASSWORD = "Nitro123P1rwhGrUeQ0xom0NyntqQkU1";
-    private static final String CLIENT_ID = "3MVG9OI03ecbG2VpbEHpQJccoCwSGcpMjMvs3eAp3wRk9d30RZ85CDo_xWkrRGHMAvAv0gnrLJCfYLxcsQvIW";
+    private static final String USER_NAME = "";
+    private static final String PASSWORD = "";
+    private static final String CLIENT_ID = "";
     private static final String ACCESS_TOKEN_URI = "http://localhost:8089/oauth2/token";
     private static final String HTTP_LOCALHOST_8089_PROTECTED = "http://localhost:8089/";
     private static final String HTTP_LOCALHOST_8089_PROTECTED_RESOURCE = HTTP_LOCALHOST_8089_PROTECTED + "protected/resource";
